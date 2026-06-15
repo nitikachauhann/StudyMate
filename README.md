@@ -234,5 +234,3 @@ This project is intended for educational and learning purposes. AI-generated con
 AI-Powered Learning Assistant Project 🚀
 
 ---
-
-with your actual GitHub repository URL.
