@@ -1,4 +1,3 @@
-Here's a professional README you can directly put in `README.md` before pushing to GitHub.
 
 # StudyMate 🧠
 
